@@ -1,2 +1,2 @@
 # CS50p-Projects
-The Harvard CS50p projects I have currently completed!
+The Harvard CS50p projects and coursework I have currently completed.
